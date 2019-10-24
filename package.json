@@ -1,6 +1,6 @@
 {
   "name": "@antipol/search-word",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple program to search for any word in a specified file",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antipol/nodejs-findWord.git"
+    "url": "https://github.com/antipol/nodejs-findWord.git"
   },
   "keywords": [
     "search"
